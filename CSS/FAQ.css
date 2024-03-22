@@ -1,0 +1,45 @@
+.title{
+	color: orange;
+	font-size: 24px;
+	margin-left: 30px;
+}
+
+.titleline{
+	display: block;
+	border-style: inset;
+	border-width: 1px;
+
+}
+
+.QandA{
+	margin: auto;
+	width: 1800px;
+}
+
+.Quest{
+	background-color: #f5f5f5;
+	border-left: 5px solid orange;
+}
+
+.Qsign{
+	font-size: 50px;
+	color: orange;
+}
+
+.Qtext{
+	font-size: 25px;
+}
+
+.Answer{
+	background-color: #f5f5f5;
+	border-left: 5px solid grey;
+}
+
+.Asign{
+	font-size: 50px;
+	color: grey;
+}
+
+.Atext{
+	font-size: 25px;
+}

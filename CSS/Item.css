@@ -1,0 +1,162 @@
+.titleline{
+	display: block;
+	border-style: inset;
+	border-width: 1px;
+
+}
+
+.title{
+	color: orange;
+	font-size: 20px;
+	margin-left: 30px;
+}
+
+.back{
+	color: orange;
+}
+
+.imagetab{
+	width: 600px;
+}
+.tabadjust{
+	height: 100px;
+}
+
+.itemtable{
+	margin: auto;
+	width: 1400px;
+	height: 500px;
+}
+
+.itemsize1{
+	width: 550px;
+	height: 400px;
+}
+.itemsize2{
+	width: 550px;
+	height: 800px;
+}
+.itemsize3{
+	width: 550px;
+	height: 600px;
+}
+
+.itemtitle{
+	padding-left: 30px;
+	font-size: 20px;
+}
+
+.rating{
+	width: 200px;
+	height: 50px;
+	float: left;
+
+}
+
+.ratetxt{
+	float: left;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+.detailtab{
+	width: 500px;
+	height: 400px;
+	margin-left: 40px;
+}
+
+.Descript{
+	margin-left: 50px;
+	font-size: 18px;
+}
+
+.pricegroup{
+	width: 500px;
+	margin-left: 30px;
+}
+.price{
+	border: 4px solid black;
+	border-right: 2px solid black;
+	background-color: orange;
+	font-size: 20px;
+	color: white;
+	width: 120px;
+	height: 60px;
+	text-align: center;
+	
+}
+
+.tag{
+	font-size: 24px;
+	background-color: whitesmoke;
+	border: 4px solid black;
+	border-left: 2px solid black;
+}
+
+.buybtn{
+	border: 3px solid black;
+	background-color: orange;
+	width: 120px;
+	height: 60px;
+	cursor: pointer;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+
+.itemgroup2{
+	float: left;
+	border: 5px solid orange;
+	border-radius: 15px;
+	width: 850px;
+	height: 400px;
+	float: left;
+	margin-left: 60px;
+}
+.itemgroup3{
+	float: left;
+	border: 5px solid orange;
+	border-radius: 15px;
+	width: 850px;
+	height: 400px;
+	float: left;
+	margin-left: 80px;
+}
+
+.tableimg_cell1{
+	border-right: 3px solid orange;
+}
+
+.itemtxt{
+	font-size: 18px;
+	padding: 5px;
+}
+
+
+.imagesize{
+	width: 390px;
+	height: 390px;
+	padding: 0;
+	
+}
+
+.optiontag{
+	border: 1px solid black;
+	padding: 4px;
+}
+.optiontag:hover {
+	background-color: orange;
+}
+
+.detailbtn{
+	display: inline-block;
+	border: 1px solid black;
+	background-color: orange;
+	padding: 20px;
+	text-decoration: none;
+	color: black;
+}
+.detailbtn:hover{
+	background-color: darkorange;
+
+}

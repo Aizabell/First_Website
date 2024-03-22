@@ -1,0 +1,71 @@
+.FormBlock{
+	background: white;
+	width: 800px;
+	height:1100px;
+	margin-left: 200px;
+	border: 2px orange solid;
+}
+
+.background{
+	background: whitesmoke;
+}
+
+.formtitle{
+	color: orange;
+	font-size: 40px;
+	margin-left: 140px;
+}
+.Formtable{
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 1000px;
+	font-size: 20px;
+	color: orange;
+}
+.Formtable td{
+	padding-left: 20px;
+}
+.important{
+	color: red;
+}
+
+input[type="name"] {
+    font-size:18px;
+}
+input[type="email"] {
+    font-size:18px;
+}
+input[type="comment"] {
+    font-size:18px;
+}
+
+
+.sendbtn {
+background: orange;
+color: white;
+border-style: outset;
+border-color: black;
+height: 100px;
+width: 400px;
+font: bold 15px arial,sans-serif;
+text-shadow: none;
+cursor: pointer;
+}
+
+.tips{
+	float: right;
+	margin-top: 100px;
+	margin-right: 100px;
+	color: orange;
+	font-size: 20px;
+}
+
+.tips p{
+	color: black;
+	font-size: 20px;
+}
+
+textarea {
+	font-size: 18px;
+}

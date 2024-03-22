@@ -1,0 +1,72 @@
+
+.background{
+	background-image: url(../Image/VoidSkybox.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.blockbg{
+	background: orange;
+}
+
+.regicol{
+	
+	margin-left: 1000px;
+	background: #FFA500;
+	width: 700px;
+	height: 880px;
+	border-left: 5px black solid;
+	border-right: 5px black solid;
+}
+
+.important{
+	color: red;
+}
+
+.Formtable{
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 700px;
+	font-size: 20px;
+	color: white;
+}
+.sendbtn {
+	background: #FCBC49;
+	color: white;
+	border-style: outset;
+	border-color: black;
+	height: 100px;
+	width: 200px;
+	font: bold 15px arial,sans-serif;
+	text-shadow: none;
+	cursor: pointer;
+}
+
+.regimg{
+	float: left;
+	margin-left: 150px;
+	margin-top: 170px;
+	border: 5px solid orange;
+}
+.regibrand{
+	width: 300px;
+	height: 50px;
+	margin-left: 200px
+}
+
+.Condition a{
+	color: white;
+}
+
+input[type="name"] {
+    font-size:18px;
+}
+input[type="email"] {
+    font-size:18px;
+}
+input[type="Password"] {
+    font-size:18px;
+}
+input[type="button"] {
+    font-size:24px;
+}

@@ -1,0 +1,25 @@
+.abouttitle{
+	color: orange;
+	font-size: 60px;
+	margin-left: 100px;
+}
+
+.imgboard{
+	border: 3px solid orange;
+	width: 900px;
+	height: 450px;
+	margin-left: 80px;
+	margin-top: 80px;
+}
+.aboutimg{
+	width: 900px;
+	height: 450px;
+}
+.textgroup{
+	float: right;
+	margin-right: 50px;
+	margin-top: 60px;
+	font-size: 30px;
+	width: 800px;
+	line-height: 2.5;
+}

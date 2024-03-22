@@ -1,0 +1,124 @@
+.Lunar{
+	width: 90%;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: 1px solid black;
+	border-radius: 15px;
+}
+.welcomeimg{
+	padding-top: 50px;
+}
+/* Popular item menu */
+.subtitle{
+	margin-left: 20px;
+	color: orange;
+}
+
+.itemgroup1{
+	border: 5px solid orange;
+	border-radius: 15px;
+	width: 400px;
+	height: 330px;
+	float: left;
+	margin-left: 60px;
+	text-align: center;
+}
+.itemgroup1 a{
+	text-decoration: none;
+	color: darkorange;
+}
+
+.headphone{
+	background-image: url(../Image/pTron.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.computer{
+	background-image: url(../Image/Alienware.jfif);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.TV{
+	background-image: url(../Image/SamsungTV.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.mobile{
+	background-image: url(../Image/Iphone12Pro.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/* Popular item menu */
+
+.itemtxt{
+	font-size: 18px;
+	padding: 5px;
+}
+.itemtitle{
+
+}
+
+.itemgroup2{
+	float: left;
+	border: 5px solid orange;
+	border-radius: 15px;
+	width: 850px;
+	height: 400px;
+	float: left;
+	margin-left: 60px;
+}
+.itemgroup3{
+	float: left;
+	border: 5px solid orange;
+	border-radius: 15px;
+	width: 850px;
+	height: 400px;
+	float: left;
+	margin-left: 80px;
+}
+
+
+
+.imagesize{
+	width: 390px;
+	height: 390px;
+	padding: 0;
+	
+}
+
+
+.optiontag{
+	border: 1px solid black;
+	padding: 4px;
+}
+.optiontag:hover {
+	background-color: orange;
+}
+
+.detailbtn{
+	display: inline-block;
+	border: 1px solid black;
+	background-color: orange;
+	padding: 20px;
+	text-decoration: none;
+	color: black;
+}
+.detailbtn:hover{
+	background-color: darkorange;
+
+}
+.tableimg_cell1{
+	border-right: 3px solid orange;
+}
+
+
+
+
+
+
+
